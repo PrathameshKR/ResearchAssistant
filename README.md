@@ -1,1 +1,1 @@
-# ResearchAssitant
+# ResearchAssistant
